@@ -15,3 +15,4 @@ Machine learning project to predict house prices using structured data.
 - Feature selection
 - Simple regression model
 
+- Initial data summary (EDA) completed
