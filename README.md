@@ -28,3 +28,6 @@ Machine learning project to predict house prices using structured data.
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+- Extended regression model with multiple features
+
