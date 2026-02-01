@@ -22,6 +22,8 @@ Machine learning project to predict house prices using structured data.
 - Basic exploratory data analysis (EDA)
 - Visualizing feature–target relationships
 - Training a simple linear regression model
+- Model evaluation using train-test split and MAE
+
 
 ## Tools Used
 - Python
